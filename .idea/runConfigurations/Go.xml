@@ -1,0 +1,20 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Go" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <option name="name" value="Go" />
+    <option name="saveOutputToFile" value="false" />
+    <option name="showConsoleOnStdErr" value="false" />
+    <option name="showConsoleOnStdOut" value="false" />
+    <option name="scriptName" value="$PROJECT_DIR$/src/method.go" />
+    <option name="scriptArguments" value="" />
+    <module name="Go" />
+    <RunnerSettings RunnerId="Debug">
+      <option name="DEBUG_PORT" value="" />
+      <option name="TRANSPORT" value="0" />
+      <option name="LOCAL" value="true" />
+    </RunnerSettings>
+    <RunnerSettings RunnerId="Run" />
+    <ConfigurationWrapper RunnerId="Debug" />
+    <ConfigurationWrapper RunnerId="Run" />
+    <method />
+  </configuration>
+</component>
